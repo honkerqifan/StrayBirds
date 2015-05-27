@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: 启帆’s Blog
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: kunka
+theme: time-machine
 disqusname: honkerqifan
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
